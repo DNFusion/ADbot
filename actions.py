@@ -11,7 +11,7 @@ from typing import Any, Text, Dict, List
 
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
-import csv
+# import csv
 
 
 class ActionHelloWorld(Action):
@@ -23,12 +23,12 @@ class ActionHelloWorld(Action):
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         mylist = []
-        with open(file='data/entities.csv', mode='r') as f:
-            myfile = csv.reader(f,delimiter=',')
-            for row in myfile:
-                for col in row:
-                    mylist.append(col)
+        # with open(file='data/entities.csv', mode='r') as f:
+        #     myfile = csv.reader(f,delimiter=',')
+        #     for row in myfile:
+        #         for col in row:
+        #             mylist.append(col)
         for entity in tracker.latest_message['entities']:
-            dispatcher.utter_message(f"for {entity['value']} You will find it in {mylist[mylist.index(entity['value'])+1]}"
+            dispatcher.utter_message(f"for {entity['value']} You will find it in"
 
         return []
