@@ -32,7 +32,7 @@ responses:
   - text: "Bye Bye"
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  - text: "I am a bot, Created by AD."
 
   utter_help:
   - text: "how can I help you."
