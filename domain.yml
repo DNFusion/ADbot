@@ -6,6 +6,7 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - ask_location
 
 responses:
   utter_greet:
@@ -17,15 +18,31 @@ responses:
 
   utter_did_that_help:
   - text: "Did that help you?"
+  - text: "Was that helpfull?"
+  - text: "Did that help?"
 
   utter_happy:
   - text: "Great, carry on!"
+  - text: "Great to hear that!"
 
   utter_goodbye:
   - text: "Bye"
+  - text: "See you later"
+  - text: "OK, see you later"
+  - text: "Bye Bye"
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+
+  utter_help:
+  - text: "how can I help you."
+  - text: "how may i help"
+
+  utter_sorry:
+  - text: "I am sorry"
+  - text: "I am sorry about that"
+  - text: "Sorry to hear that"
+
 
 session_config:
   session_expiration_time: 60
