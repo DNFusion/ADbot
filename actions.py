@@ -29,6 +29,6 @@ class ActionHelloWorld(Action):
                 for col in row:
                     mylist.append(col)
         for entity in tracker.latest_message['entities']:
-            dispatcher.utter_message(test: f"for {entity['value']} You will find it in {mylist[mylist.index(entity['value'])+1]}"
+            dispatcher.utter_message(text: f"for {entity['value']} You will find it in {mylist[mylist.index(entity['value'])+1]}"
 
         return []
