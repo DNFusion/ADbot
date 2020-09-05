@@ -11,6 +11,7 @@
 - wazza
 - what's up
 - greetings
+
 ## intent:goodbye
 - bye
 - goodbye
