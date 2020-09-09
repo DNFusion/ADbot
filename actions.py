@@ -11,7 +11,7 @@ from typing import Any, Text, Dict, List
 
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
-# import csv
+import csv
 
 
 class ActionHelloWorld(Action):
@@ -23,12 +23,25 @@ class ActionHelloWorld(Action):
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         mylist = []
-        # with open(file='data/entities.csv', mode='r') as f:
-        #     myfile = csv.reader(f,delimiter=',')
-        #     for row in myfile:
-        #         for col in row:
-        #             mylist.append(col)
-        for entity in tracker.latest_message['entities']:
-            dispatcher.utter_message(f"for {entity['value']} You will find it in"
+        with open(file='data/entities.csv', mode='r') as f:
+            myfile = csv.reader(f,delimiter=',')
+            for row in myfile:
+                for col in row:
+                    mylist.append(col)
+        print(tracker.latest_message)
+        Tintent = tracker.latest_message['intent']
+        intent = Tintent['name']
+        if intent == "ask_location":
+            for ent in tracker.latest_message['entities']:
+                print(ent['entity'])
+                if ent['entity'] in ["Department","Company"]:
+                    dispatcher.utter_message(f"for {ent['value']} You will find it in {mylist[mylist.index(ent['value'])+1]}")
+                elif ent['entity'] == "Person":
+                    dispatcher.utter_message(f"You will find {ent['value']} in {mylist[mylist.index(ent['value'])+1]}")
+        elif intent == "ask_info":
+            for ent in tracker.latest_message['entities']:
+                    dispatcher.utter_message(f"{mylist[mylist.index(ent['value'])+2]}\n")
+
+
 
         return []

@@ -33,6 +33,8 @@
 * bot_challenge
   - utter_iamabot
 
-## ask location
-* ask_location
+## ask
+* ask_location{"Department":"HR"}
+  - action_check_information
+* ask_info
   - action_check_information

@@ -1,40 +1,43 @@
-entity,location,info,type
-HR,3rd floor to the left of the elevator,human resource department is responsible for hiring and administration of employees,Department
-human resource,3rd floor to the left of the elevator,human resource department is responsible for hiring and administration of employees,Department
-human resource department,3rd floor to the left of the elevator,human resource department is responsible for hiring and administration of employees,Department
-human Resource Department,3rd floor to the left of the elevator,human resource department is responsible for hiring and administration of employees,Department
-hr,3rd floor to the left of the elevator,human resource department is responsible for hiring and administration of employees,Department
-hr department,3rd floor to the left of the elevator,human resource department is responsible for hiring and administration of employees,Department
-HR Department,3rd floor to the left of the elevator,human resource department is responsible for hiring and administration of employees,Department
-HR department,3rd floor to the left of the elevator,human resource department is responsible for hiring and administration of employees,Department
-finance,3rd floor to the left of the elevator,,Department
-finance department,3rd floor to the left of the elevator,,Department
-Finance Department,3rd floor to the left of the elevator,,Department
-information technology,5th floor to the right of the elevator,,Department
-information technology department,5th floor to the right of the elevator,,Department
-Information Technology Department,5th floor to the right of the elevator,,Department
-marketing,3rd floor to the right of the elevator,,Department
-marketing department,3rd floor to the right of the elevator,,Department
-Marketing Department,3rd floor to the right of the elevator,,Department
-sales,3rd floor to the right of the elevator,,Department
-sales department,3rd floor to the right of the elevator,,Department
-Sales Department,3rd floor to the right of the elevator,,Department
-purchasing,3rd floor to the left of the elevator,,Department
-purchasing department,3rd floor to the left of the elevator,,Department
-Purchasing Department,3rd floor to the left of the elevator,,Department
-procurement,3rd floor to the left of the elevator,,Department
-procurement department,3rd floor to the left of the elevator,,Department
-Procurement Department,3rd floor to the left of the elevator,,Department
-client service,3rd floor to the right of the elevator,,Department
-client service department,3rd floor to the right of the elevator,,Department
-Client Service Department,3rd floor to the right of the elevator,,Department
-business development,3rd floor to the right of the elevator,,Department
-business development department,3rd floor to the right of the elevator,,Department
-Business Development Department,3rd floor to the right of the elevator,,Department
-digital marketing,4th floor,,Department
-digital marketing department,4th floor,,Department
-Digital Marketing Department,4th floor,,Department
-IT Department,5th floor to the right of the elevator,,Department
-IT department,5th floor to the right of the elevator,,Department
-IT,5th floor to the right of the elevator,,Department
-I.T.,5th floor to the right of the elevator,,Department
+entity,location,info,Info 2,type
+HR,3rd floor to the left of the elevator,human resource department is responsible for hiring and administration of employees,-,Department
+human resource,3rd floor to the left of the elevator,human resource department is responsible for hiring and administration of employees,-,Department
+human resource department,3rd floor to the left of the elevator,human resource department is responsible for hiring and administration of employees,-,Department
+HR Department,3rd floor to the left of the elevator,human resource department is responsible for hiring and administration of employees,-,Department
+finance,3rd floor to the left of the elevator,Finance department responsible for invoicing and financial report,-,Department
+finance department,3rd floor to the left of the elevator,Finance department responsible for invoicing and financial report,-,Department
+information technology,5th floor to the right of the elevator,I.T. responsible for our computer networking and technoligy services,-,Department
+information technology department,5th floor to the right of the elevator,I.T. responsible for our computer networking and technoligy services,-,Department
+marketing,3rd floor to the right of the elevator,The marketing department is responsible for making people interrested in us and our client services,-,Department
+marketing department,3rd floor to the right of the elevator,The marketing department is responsible for making people interrested in us and our client services,-,Department
+sales,3rd floor to the right of the elevator,Sales is our team that contact you to tell you more about us and weather you are interrested in our services,-,Department
+sales department,3rd floor to the right of the elevator,Sales is our team that contact you to tell you more about us and weather you are interrested in our services,-,Department
+purchasing,3rd floor to the left of the elevator,purchasing is the department we relie on to procure for us and our clients needs of items and/or services,-,Department
+purchasing department,3rd floor to the left of the elevator,purchasing is the department we relie on to procure for us and our clients needs of items and/or services,-,Department
+procurement,3rd floor to the left of the elevator,purchasing is the department we relie on to procure for us and our clients needs of items and/or services,-,Department
+procurement department,3rd floor to the left of the elevator,purchasing is the department we relie on to procure for us and our clients needs of items and/or services,-,Department
+client service,3rd floor to the right of the elevator,Client services is the team responsible for making our clients happy,-,Department
+client service department,3rd floor to the right of the elevator,Client services is the team responsible for making our clients happy,-,Department
+business development,3rd floor to the right of the elevator,business development department looks into market needs and our capablities and designes services that we can provide for the market,-,Department
+business development department,3rd floor to the right of the elevator,business development department looks into market needs and our capablities and designes services that we can provide for the market,-,Department
+digital marketing,4th floor,Any market beeing done on the internet our digital marketing team is an expert in providing effictive service in letting people know about us and our clients,-,Department
+digital marketing department,4th floor,Any market beeing done on the internet our digital marketing team is an expert in providing effictive service in letting people know about us and our clients,-,Department
+IT Department,5th floor to the right of the elevator,I.T. responsible for our computer networking and technoligy services,-,Department
+IT,5th floor to the right of the elevator,I.T. responsible for our computer networking and technoligy services,-,Department
+I.T.,5th floor to the right of the elevator,I.T. responsible for our computer networking and technoligy services,-,Department
+Obada,5th floor to the right of the elevator,He is our I.T. manager,IT manager,Person
+Obada Alseddig,5th floor to the right of the elevator,He is our I.T. manager,I.T. manager,Person
+Zeiad,3rd floor to the right of the elevator,He is our CEO,CEO,Person
+Zeiad Al Saif,3rd floor to the right of the elevator,He is our CEO,Chef excutive officer,Person
+Hissah,5th floor to the right of the elevator,She is our I.T. support team leader,IT support Team Leader,Person
+Hissah aldorihem,5th floor to the right of the elevator,She is our I.T. support team leader,I.T. support Team Leader,Person
+Arafat alsaieq,5th floor to the right of the elevator,One of our I.T. research team,IT expert,Person
+Arafat,5th floor to the right of the elevator,One of our I.T. research team,I.T. expert,Person
+Bader altorki,5th floor to the right of the elevator,One of our I.T. network experts,IT network engineer,Person
+Bader,5th floor to the right of the elevator,One of our I.T. network experts,I.T. network engineer,Person
+Amro,5th floor to the right of the elevator,One of our I.T. support experts,IT support engineer,Person
+Amro khalil,5th floor to the right of the elevator,One of our I.T. support experts,I.T. support engineer,Person
+Abdulrahman alfantokh,3rd floor to the right of the elevator,AD founder,Founder,Person
+Abdulrahman,3rd floor to the right of the elevator,AD founder,founder,Person
+AD,"King Fahed street, beside Al Nakheel Tower",Art Dimention is a company specilized in marketing and advertaisment and provide multible services in this space,-,Company
+Art Dimention,"King Fahed street, beside Al Nakheel Tower",Art Dimention is a company specilized in marketing and advertaisment and provide multible services in this space,-,Company
+Your Company,"King Fahed street, beside Al Nakheel Tower",Art Dimention is a company specilized in marketing and advertaisment and provide multible services in this space,-,Company

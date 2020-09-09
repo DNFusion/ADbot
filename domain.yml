@@ -7,6 +7,16 @@ intents:
   - mood_unhappy
   - bot_challenge
   - ask_location
+  - ask_info
+
+entities:
+  - Department
+  - Location
+  - Person
+  - Company
+
+actions:
+  - action_check_information
 
 responses:
   utter_greet:
@@ -33,6 +43,8 @@ responses:
 
   utter_iamabot:
   - text: "I am a bot, Created by AD."
+  - text: "I am a robot"
+  - text: "I am .... the .... Terminiator, I'll be back!"
 
   utter_help:
   - text: "how can I help you."

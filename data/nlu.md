@@ -59,20 +59,475 @@
 - extremely sad
 - so sad
 
+## intent:ask_info
+- tell me about [HR](Department)
+- tell me about [human resource](Department)
+- tell me about [human resource department](Department)
+- tell me about [HR Department](Department)
+- tell me about [finance](Department)
+- tell me about [finance department](Department)
+- tell me about [information technology](Department)
+- tell me about [information technology department](Department)
+- tell me about [marketing](Department)
+- tell me about [marketing department](Department)
+- tell me about [sales](Department)
+- tell me about [sales department](Department)
+- tell me about [purchasing](Department)
+- tell me about [purchasing department](Department)
+- tell me about [procurement](Department)
+- tell me about [procurement department](Department)
+- tell me about [client service](Department)
+- tell me about [client service department](Department)
+- tell me about [business development](Department)
+- tell me about [business development department](Department)
+- tell me about [digital marketing](Department)
+- tell me about [digital marketing department](Department)
+- tell me about [IT Department](Department)
+- tell me about [IT](Department)
+- tell me about [I.T.](Department)
+- tell me about [Obada](Person)
+- tell me about [Obada Alseddig](Person)
+- tell me about [Zeiad](Person)
+- tell me about [Zeiad Al Saif](Person)
+- tell me about [Hissah](Person)
+- tell me about [Hissah aldorihem](Person)
+- tell me about [Arafat alsaieq](Person)
+- tell me about [Arafat](Person)
+- tell me about [Bader altorki](Person)
+- tell me about [Bader](Person)
+- tell me about [Amro](Person)
+- tell me about [Amro khalil](Person)
+- tell me about [Abdulrahman alfantokh](Person)
+- tell me about [Abdulrahman](Person)
+- tell me about [AD](Company)
+- tell me about [Art Dimention](Company)
+- tell me about [Your Company](Company)
+- do you know any thing about [HR](Department)
+- do you know any thing about [human resource](Department)
+- do you know any thing about [human resource department](Department)
+- do you know any thing about [HR Department](Department)
+- do you know any thing about [finance](Department)
+- do you know any thing about [finance department](Department)
+- do you know any thing about [information technology](Department)
+- do you know any thing about [information technology department](Department)
+- do you know any thing about [marketing](Department)
+- do you know any thing about [marketing department](Department)
+- do you know any thing about [sales](Department)
+- do you know any thing about [sales department](Department)
+- do you know any thing about [purchasing](Department)
+- do you know any thing about [purchasing department](Department)
+- do you know any thing about [procurement](Department)
+- do you know any thing about [procurement department](Department)
+- do you know any thing about [client service](Department)
+- do you know any thing about [client service department](Department)
+- do you know any thing about [business development](Department)
+- do you know any thing about [business development department](Department)
+- do you know any thing about [digital marketing](Department)
+- do you know any thing about [digital marketing department](Department)
+- do you know any thing about [IT Department](Department)
+- do you know any thing about [IT](Department)
+- do you know any thing about [I.T.](Department)
+- do you know any thing about [Obada](Person)
+- do you know any thing about [Obada Alseddig](Person)
+- do you know any thing about [Zeiad](Person)
+- do you know any thing about [Zeiad Al Saif](Person)
+- do you know any thing about [Hissah](Person)
+- do you know any thing about [Hissah aldorihem](Person)
+- do you know any thing about [Arafat alsaieq](Person)
+- do you know any thing about [Arafat](Person)
+- do you know any thing about [Bader altorki](Person)
+- do you know any thing about [Bader](Person)
+- do you know any thing about [Amro](Person)
+- do you know any thing about [Amro khalil](Person)
+- do you know any thing about [Abdulrahman alfantokh](Person)
+- do you know any thing about [Abdulrahman](Person)
+- do you know any thing about [AD](Company)
+- do you know any thing about [Art Dimention](Company)
+- do you know any thing about [Your Company](Company)
+- do you know what [HR](Department) Is
+- do you know what [human resource](Department) Is
+- do you know what [human resource department](Department) Is
+- do you know what [HR Department](Department) Is
+- do you know what [finance](Department) Is
+- do you know what [finance department](Department) Is
+- do you know what [information technology](Department) Is
+- do you know what [information technology department](Department) Is
+- do you know what [marketing](Department) Is
+- do you know what [marketing department](Department) Is
+- do you know what [sales](Department) Is
+- do you know what [sales department](Department) Is
+- do you know what [purchasing](Department) Is
+- do you know what [purchasing department](Department) Is
+- do you know what [procurement](Department) Is
+- do you know what [procurement department](Department) Is
+- do you know what [client service](Department) Is
+- do you know what [client service department](Department) Is
+- do you know what [business development](Department) Is
+- do you know what [business development department](Department) Is
+- do you know what [digital marketing](Department) Is
+- do you know what [digital marketing department](Department) Is
+- do you know what [IT Department](Department) Is
+- do you know what [IT](Department) Is
+- do you know what [I.T.](Department) Is
+- do you know what [Obada](Person) Is
+- do you know what [Obada Alseddig](Person) Is
+- do you know what [Zeiad](Person) Is
+- do you know what [Zeiad Al Saif](Person) Is
+- do you know what [Hissah](Person) Is
+- do you know what [Hissah aldorihem](Person) Is
+- do you know what [Arafat alsaieq](Person) Is
+- do you know what [Arafat](Person) Is
+- do you know what [Bader altorki](Person) Is
+- do you know what [Bader](Person) Is
+- do you know what [Amro](Person) Is
+- do you know what [Amro khalil](Person) Is
+- do you know what [Abdulrahman alfantokh](Person) Is
+- do you know what [Abdulrahman](Person) Is
+- do you know what [AD](Company) Is
+- do you know what [Art Dimention](Company) Is
+- do you know what [Your Company](Company) Is
+- who is [Obada](Person)
+- who is [Obada Alseddig](Person)
+- who is [Zeiad](Person)
+- who is [Zeiad Al Saif](Person)
+- who is [Hissah](Person)
+- who is [Hissah aldorihem](Person)
+- who is [Arafat alsaieq](Person)
+- who is [Arafat](Person)
+- who is [Bader altorki](Person)
+- who is [Bader](Person)
+- who is [Amro](Person)
+- who is [Amro khalil](Person)
+- who is [Abdulrahman alfantokh](Person)
+- who is [Abdulrahman](Person)
+- who is [AD](Company)
+- who is [Art Dimention](Company)
+- who is [Your Company](Company)
+- what is [HR](Department)
+- what is [human resource](Department)
+- what is [human resource department](Department)
+- what is [HR Department](Department)
+- what is [finance](Department)
+- what is [finance department](Department)
+- what is [information technology](Department)
+- what is [information technology department](Department)
+- what is [marketing](Department)
+- what is [marketing department](Department)
+- what is [sales](Department)
+- what is [sales department](Department)
+- what is [purchasing](Department)
+- what is [purchasing department](Department)
+- what is [procurement](Department)
+- what is [procurement department](Department)
+- what is [client service](Department)
+- what is [client service department](Department)
+- what is [business development](Department)
+- what is [business development department](Department)
+- what is [digital marketing](Department)
+- what is [digital marketing department](Department)
+- what is [IT Department](Department)
+- what is [IT](Department)
+- what is [I.T.](Department)
+- what is [Obada](Person)
+- what is [Obada Alseddig](Person)
+- what is [Zeiad](Person)
+- what is [Zeiad Al Saif](Person)
+- what is [Hissah](Person)
+- what is [Hissah aldorihem](Person)
+- what is [Arafat alsaieq](Person)
+- what is [Arafat](Person)
+- what is [Bader altorki](Person)
+- what is [Bader](Person)
+- what is [Amro](Person)
+- what is [Amro khalil](Person)
+- what is [Abdulrahman alfantokh](Person)
+- what is [Abdulrahman](Person)
+- what is [AD](Company)
+- what is [Art Dimention](Company)
+- what is [Your Company](Company)
+
+
 ## intent:ask_location
-- where is [HR] (Department)
-- where can i find [HR] (Department)
-- tell me where is [HR] (Department)
-- do you know the location of [HR] (Department)
-- tell me [HR] (Department) location
-- tell me the [HR] (Department) location
-- what is the location of [HR] (Department)
+- where is [HR](Department)
+- where is [human resource](Department)
+- where is [human resource department](Department)
+- where is [HR Department](Department)
+- where is [finance](Department)
+- where is [finance department](Department)
+- where is [information technology](Department)
+- where is [information technology department](Department)
+- where is [marketing](Department)
+- where is [marketing department](Department)
+- where is [sales](Department)
+- where is [sales department](Department)
+- where is [purchasing](Department)
+- where is [purchasing department](Department)
+- where is [procurement](Department)
+- where is [procurement department](Department)
+- where is [client service](Department)
+- where is [client service department](Department)
+- where is [business development](Department)
+- where is [business development department](Department)
+- where is [digital marketing](Department)
+- where is [digital marketing department](Department)
+- where is [IT Department](Department)
+- where is [IT](Department)
+- where is [I.T.](Department)
+- where is [Obada](Person)
+- where is [Obada Alseddig](Person)
+- where is [Zeiad](Person)
+- where is [Zeiad Al Saif](Person)
+- where is [Hissah](Person)
+- where is [Hissah aldorihem](Person)
+- where is [Arafat alsaieq](Person)
+- where is [Arafat](Person)
+- where is [Bader altorki](Person)
+- where is [Bader](Person)
+- where is [Amro](Person)
+- where is [Amro khalil](Person)
+- where is [Abdulrahman alfantokh](Person)
+- where is [Abdulrahman](Person)
+- where can i find [HR](Department)
+- where can i find [human resource](Department)
+- where can i find [human resource department](Department)
+- where can i find [HR Department](Department)
+- where can i find [finance](Department)
+- where can i find [finance department](Department)
+- where can i find [information technology](Department)
+- where can i find [information technology department](Department)
+- where can i find [marketing](Department)
+- where can i find [marketing department](Department)
+- where can i find [sales](Department)
+- where can i find [sales department](Department)
+- where can i find [purchasing](Department)
+- where can i find [purchasing department](Department)
+- where can i find [procurement](Department)
+- where can i find [procurement department](Department)
+- where can i find [client service](Department)
+- where can i find [client service department](Department)
+- where can i find [business development](Department)
+- where can i find [business development department](Department)
+- where can i find [digital marketing](Department)
+- where can i find [digital marketing department](Department)
+- where can i find [IT Department](Department)
+- where can i find [IT](Department)
+- where can i find [I.T.](Department)
+- where can i find [Obada](Person)
+- where can i find [Obada Alseddig](Person)
+- where can i find [Zeiad](Person)
+- where can i find [Zeiad Al Saif](Person)
+- where can i find [Hissah](Person)
+- where can i find [Hissah aldorihem](Person)
+- where can i find [Arafat alsaieq](Person)
+- where can i find [Arafat](Person)
+- where can i find [Bader altorki](Person)
+- where can i find [Bader](Person)
+- where can i find [Amro](Person)
+- where can i find [Amro khalil](Person)
+- where can i find [Abdulrahman alfantokh](Person)
+- where can i find [Abdulrahman](Person)
+- tell me where is [HR](Department)
+- tell me where is [human resource](Department)
+- tell me where is [human resource department](Department)
+- tell me where is [HR Department](Department)
+- tell me where is [finance](Department)
+- tell me where is [finance department](Department)
+- tell me where is [information technology](Department)
+- tell me where is [information technology department](Department)
+- tell me where is [marketing](Department)
+- tell me where is [marketing department](Department)
+- tell me where is [sales](Department)
+- tell me where is [sales department](Department)
+- tell me where is [purchasing](Department)
+- tell me where is [purchasing department](Department)
+- tell me where is [procurement](Department)
+- tell me where is [procurement department](Department)
+- tell me where is [client service](Department)
+- tell me where is [client service department](Department)
+- tell me where is [business development](Department)
+- tell me where is [business development department](Department)
+- tell me where is [digital marketing](Department)
+- tell me where is [digital marketing department](Department)
+- tell me where is [IT Department](Department)
+- tell me where is [IT](Department)
+- tell me where is [I.T.](Department)
+- tell me where is [Obada](Person)
+- tell me where is [Obada Alseddig](Person)
+- tell me where is [Zeiad](Person)
+- tell me where is [Zeiad Al Saif](Person)
+- tell me where is [Hissah](Person)
+- tell me where is [Hissah aldorihem](Person)
+- tell me where is [Arafat alsaieq](Person)
+- tell me where is [Arafat](Person)
+- tell me where is [Bader altorki](Person)
+- tell me where is [Bader](Person)
+- tell me where is [Amro](Person)
+- tell me where is [Amro khalil](Person)
+- tell me where is [Abdulrahman alfantokh](Person)
+- tell me where is [Abdulrahman](Person)
+- do you know the location of [HR](Department)
+- do you know the location of [human resource](Department)
+- do you know the location of [human resource department](Department)
+- do you know the location of [HR Department](Department)
+- do you know the location of [finance](Department)
+- do you know the location of [finance department](Department)
+- do you know the location of [information technology](Department)
+- do you know the location of [information technology department](Department)
+- do you know the location of [marketing](Department)
+- do you know the location of [marketing department](Department)
+- do you know the location of [sales](Department)
+- do you know the location of [sales department](Department)
+- do you know the location of [purchasing](Department)
+- do you know the location of [purchasing department](Department)
+- do you know the location of [procurement](Department)
+- do you know the location of [procurement department](Department)
+- do you know the location of [client service](Department)
+- do you know the location of [client service department](Department)
+- do you know the location of [business development](Department)
+- do you know the location of [business development department](Department)
+- do you know the location of [digital marketing](Department)
+- do you know the location of [digital marketing department](Department)
+- do you know the location of [IT Department](Department)
+- do you know the location of [IT](Department)
+- do you know the location of [I.T.](Department)
+- do you know the location of [Obada](Person)
+- do you know the location of [Obada Alseddig](Person)
+- do you know the location of [Zeiad](Person)
+- do you know the location of [Zeiad Al Saif](Person)
+- do you know the location of [Hissah](Person)
+- do you know the location of [Hissah aldorihem](Person)
+- do you know the location of [Arafat alsaieq](Person)
+- do you know the location of [Arafat](Person)
+- do you know the location of [Bader altorki](Person)
+- do you know the location of [Bader](Person)
+- do you know the location of [Amro](Person)
+- do you know the location of [Amro khalil](Person)
+- do you know the location of [Abdulrahman alfantokh](Person)
+- do you know the location of [Abdulrahman](Person)
+- tell me [HR](Department) location
+- tell me [human resource](Department) location
+- tell me [human resource department](Department) location
+- tell me [HR Department](Department) location
+- tell me [finance](Department) location
+- tell me [finance department](Department) location
+- tell me [information technology](Department) location
+- tell me [information technology department](Department) location
+- tell me [marketing](Department) location
+- tell me [marketing department](Department) location
+- tell me [sales](Department) location
+- tell me [sales department](Department) location
+- tell me [purchasing](Department) location
+- tell me [purchasing department](Department) location
+- tell me [procurement](Department) location
+- tell me [procurement department](Department) location
+- tell me [client service](Department) location
+- tell me [client service department](Department) location
+- tell me [business development](Department) location
+- tell me [business development department](Department) location
+- tell me [digital marketing](Department) location
+- tell me [digital marketing department](Department) location
+- tell me [IT Department](Department) location
+- tell me [IT](Department) location
+- tell me [I.T.](Department) location
+- tell me [Obada](Person) location
+- tell me [Obada Alseddig](Person) location
+- tell me [Zeiad](Person) location
+- tell me [Zeiad Al Saif](Person) location
+- tell me [Hissah](Person) location
+- tell me [Hissah aldorihem](Person) location
+- tell me [Arafat alsaieq](Person) location
+- tell me [Arafat](Person) location
+- tell me [Bader altorki](Person) location
+- tell me [Bader](Person) location
+- tell me [Amro](Person) location
+- tell me [Amro khalil](Person) location
+- tell me [Abdulrahman alfantokh](Person) location
+- tell me [Abdulrahman](Person) location
+- tell me the [HR](Department) location
+- tell me the [human resource](Department) location
+- tell me the [human resource department](Department) location
+- tell me the [HR Department](Department) location
+- tell me the [finance](Department) location
+- tell me the [finance department](Department) location
+- tell me the [information technology](Department) location
+- tell me the [information technology department](Department) location
+- tell me the [marketing](Department) location
+- tell me the [marketing department](Department) location
+- tell me the [sales](Department) location
+- tell me the [sales department](Department) location
+- tell me the [purchasing](Department) location
+- tell me the [purchasing department](Department) location
+- tell me the [procurement](Department) location
+- tell me the [procurement department](Department) location
+- tell me the [client service](Department) location
+- tell me the [client service department](Department) location
+- tell me the [business development](Department) location
+- tell me the [business development department](Department) location
+- tell me the [digital marketing](Department) location
+- tell me the [digital marketing department](Department) location
+- tell me the [IT Department](Department) location
+- tell me the [IT](Department) location
+- tell me the [I.T.](Department) location
+- what is the location of [HR](Department)
+- what is the location of [human resource](Department)
+- what is the location of [human resource department](Department)
+- what is the location of [HR Department](Department)
+- what is the location of [finance](Department)
+- what is the location of [finance department](Department)
+- what is the location of [information technology](Department)
+- what is the location of [information technology department](Department)
+- what is the location of [marketing](Department)
+- what is the location of [marketing department](Department)
+- what is the location of [sales](Department)
+- what is the location of [sales department](Department)
+- what is the location of [purchasing](Department)
+- what is the location of [purchasing department](Department)
+- what is the location of [procurement](Department)
+- what is the location of [procurement department](Department)
+- what is the location of [client service](Department)
+- what is the location of [client service department](Department)
+- what is the location of [business development](Department)
+- what is the location of [business development department](Department)
+- what is the location of [digital marketing](Department)
+- what is the location of [digital marketing department](Department)
+- what is the location of [IT Department](Department)
+- what is the location of [IT](Department)
+- what is the location of [I.T.](Department)
+- what is the location of [Obada](Person)
+- what is the location of [Obada Alseddig](Person)
+- what is the location of [Zeiad](Person)
+- what is the location of [Zeiad Al Saif](Person)
+- what is the location of [Hissah](Person)
+- what is the location of [Hissah aldorihem](Person)
+- what is the location of [Arafat alsaieq](Person)
+- what is the location of [Arafat](Person)
+- what is the location of [Bader altorki](Person)
+- what is the location of [Bader](Person)
+- tell me [Obada](Person) office location
+- tell me [Obada Alseddig](Person) office location
+- tell me [Zeiad](Person) office location
+- tell me [Zeiad Al Saif](Person) office location
+- tell me [Hissah](Person) office location
+- tell me [Hissah aldorihem](Person) office location
+- tell me [Arafat alsaieq](Person) office location
+- tell me [Arafat](Person) office location
+- tell me [Bader altorki](Person) office location
+- tell me [Bader](Person) office location
+- tell me [Amro](Person) office location
+- tell me [Amro khalil](Person) office location
+- tell me [Abdulrahman alfantokh](Person) office location
+- tell me [Abdulrahman](Person) office location
+- what is [AD](Company)
+- what is [Art Dimention](Company)
+- what is [Your Company](Company)
+- where is [AD](Company)
+- where is [Art Dimention](Company)
+- where is [Your Company](Company)
+
+
 
 ## intent:bot_challenge
 - are you a bot?
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
-
-## lookup:Department
-  data/department.txt
